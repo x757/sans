@@ -10,5 +10,5 @@ fade_out_time=20;
 fade_out_color=c_black;
 bgm_fade=false;
 bgm_fade_time=20;
-warp_wait=0;
+warp_wait=5;
 player_dir=-1;
